@@ -1,5 +1,5 @@
 # MicGan's ProFile
-![Github]
+![Github](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)
 ## The IDE I Use: 
 ![Visual Studio](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio1.svg)  ![Visual Studio Code](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg) ![Pycharm](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg)
 ## The languange I use 
